@@ -39,25 +39,8 @@ Analyzed average blood pressure by diagnosis.
 
 Computed department-wise appointments, patient counts, and average age.
 
-🚀 How to Run
 
-Clone the repository or download the SQL file.
 
-Import the .sql script into your preferred SQL environment (MySQL, PostgreSQL, or SQLite).
-
-Run the queries to reproduce the analysis.
-
-📈 Insights
-
-Appointment trends reveal department-level workload.
-
-Certain diagnoses are more common, helping in resource allocation.
-
-Doctor ranking helps evaluate workload distribution.
-
-Patient demographics highlight age and health patterns per department.
-
-👤 Author
 
 Paridhi Bhardwaj
 Aspiring Data Analyst | Skilled in SQL, Python, Data Cleaning, and Visualization
