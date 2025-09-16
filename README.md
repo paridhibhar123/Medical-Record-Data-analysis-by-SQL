@@ -42,5 +42,5 @@ Computed department-wise appointments, patient counts, and average age.
 
 
 
-Paridhi Bhardwaj
+Author - Paridhi Bhardwaj
 Aspiring Data Analyst | Skilled in SQL, Python, Data Cleaning, and Visualization
